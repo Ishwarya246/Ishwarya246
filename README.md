@@ -1,16 +1,44 @@
-### Hi there 👋
 
-<!--
-**Ishwarya246/Ishwarya246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  Hey there!!! 🖐🖐🖐
+ </div>
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges"  align="center">
+  <a href="https://www.linkedin.com/in/ishwarya-s-093b67200/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"   alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://twitter.com/sjishwarya">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div  align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue"   alt=""/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<hr>
+
+### :girl: About Me :
+
+- 🌱 Python Developer👩‍💻
+- 👯 I’m looking to collaborate on Devlopers👩‍💻👩‍💻
+- 🤔 I’m looking for help with project ideas💬💬
+- 📫 How to reach me: sjishwarya2002@gmail.com
+- ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴
+<hr>
+
+
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=porkalai35&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porkalai35&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
