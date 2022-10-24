@@ -29,9 +29,9 @@
 ### :girl: About Me :
 
 - 🌱 Python Enthusiast👩‍💻
-- 🌱 Keen on learning new things👩‍💻
 - 🌱 Competitive Programmer👩‍💻
-- 👯 I’m looking to collaborate on Developers👩‍💻👩‍💻
+- 🌱 Keen on learning new things👩‍💻
+- 👯 I’m looking to collaborate with Developers👩‍💻👩‍💻
 - 🤔 I’m looking for help with project ideas💬💬
 - 📫 How to reach me: sjishwarya2002@gmail.com
 - ⚡  EAT🍟 -> CODE 👩‍💻 -> SLEEP😴 -> REPEAT 
