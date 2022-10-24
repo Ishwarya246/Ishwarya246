@@ -32,7 +32,6 @@
 - 🌱 Competitive Programmer👩‍💻
 - 🌱 Keen on learning new things👩‍💻
 - 👯 I’m looking to collaborate with Developers👩‍💻👩‍💻
-- 🤔 I’m looking for help with project ideas💬💬
 - 📫 How to reach me: sjishwarya2002@gmail.com
 - ⚡  EAT🍟 -> CODE 👩‍💻 -> SLEEP😴 -> REPEAT 
 <hr>
