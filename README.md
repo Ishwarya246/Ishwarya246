@@ -29,16 +29,16 @@
 ### :girl: About Me :
 
 - 🌱 Python Developer👩‍💻
-- 👯 I’m looking to collaborate on Devlopers👩‍💻👩‍💻
+- 👯 I’m looking to collaborate on Developers👩‍💻👩‍💻
 - 🤔 I’m looking for help with project ideas💬💬
 - 📫 How to reach me: sjishwarya2002@gmail.com
-- ⚡ Fun fact: EAT🍟 -> CODE 👩‍💻 -> SLEEP😴
+- ⚡  EAT🍟 -> CODE 👩‍💻 -> SLEEP😴 -> REPEAT 
 <hr>
 
 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=porkalai35&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ishwarya246&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porkalai35&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwarya246&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
