@@ -30,8 +30,7 @@
 
 - 🌱 Python Enthusiast👩‍💻
 - 🌱 Competitive Programmer👩‍💻
-- 🌱 Keen on learning new things👩‍💻
-- 👯 I’m looking to collaborate with Developers👩‍💻👩‍💻
+- 🌱 Enthusiastic Learner👩‍💻
 - 📫 How to reach me: sjishwarya2002@gmail.com
 - ⚡  EAT🍟 -> CODE 👩‍💻 -> SLEEP😴 -> REPEAT 
 <hr>
