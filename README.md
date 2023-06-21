@@ -1,9 +1,6 @@
 
 <div align="center">
-  <h1>Hey there🖐 I'm Ishwarya S </h1>
-  </br>
-  
-  
+  <h1>Hey there🖐 I'm Ishwarya S </h1>  
  </div>
 
 
