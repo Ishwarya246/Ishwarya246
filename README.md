@@ -29,6 +29,13 @@
 - ⚡  EAT🍟 -> CODE 👩‍💻 -> SLEEP😴 -> REPEAT 
 <hr>
 
+### : Technical Skills :
+
+
+• Languages: Python, C, C++, Java, R, SQL 
+• Tools and Frameworks: Flask, SQLalchemy, MySQL, Postman, Git, Figma, Invision, Pencil, Wireshark, Nmap
+• Platforms: Linux, Windows
+
 
 
 ### :fire: My Stats :
