@@ -32,7 +32,7 @@
 ### <h1>Technical Skills</h1>
 
 - Languages: Python, C, C++, Java, R, SQL 
-- Tools and Frameworks: Flask, SQLalchemy, MySQL, Postman, Git, Figma, Invision, Pencil, Wireshark, Nmap
+- Tools and Frameworks: Flask, SQLalchemy, MySQL, Postman, Git, Figma, Invision, Pencil
 - Platforms: Linux, Windows
 
 <h1></h1>
