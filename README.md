@@ -20,7 +20,7 @@
 
 <hr>
 
-### :girl: <h1>About Me</h1> :
+### <h1>About Me</h1> 
 
 - 🌱 Python Enthusiast👩‍💻
 - 🌱 Competitive Programmer👩‍💻
@@ -29,12 +29,11 @@
 - ⚡  EAT🍟 -> CODE 👩‍💻 -> SLEEP😴 -> REPEAT 
 <hr>
 
-### Technical Skills :
+### <h1>Technical Skills</h1>
 
-
-- • Languages: Python, C, C++, Java, R, SQL 
-- • Tools and Frameworks: Flask, SQLalchemy, MySQL, Postman, Git, Figma, Invision, Pencil, Wireshark, Nmap
-- • Platforms: Linux, Windows
+- Languages: Python, C, C++, Java, R, SQL 
+- Tools and Frameworks: Flask, SQLalchemy, MySQL, Postman, Git, Figma, Invision, Pencil, Wireshark, Nmap
+- Platforms: Linux, Windows
 
 
 
