@@ -22,11 +22,8 @@
 
 ### <h1>About Me</h1> 
 
-- 🌱 Python Enthusiast👩‍💻
-- 🌱 Competitive Programmer👩‍💻
-- 🌱 Enthusiastic Learner👩‍💻
+- 🌱 Software Engineer
 - 📫 How to reach me: sjishwarya2002@gmail.com
-- ⚡  EAT🍟 -> CODE 👩‍💻 -> SLEEP😴 -> REPEAT 
 <hr>
 
 ### <h1>Technical Skills</h1>
