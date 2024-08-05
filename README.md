@@ -28,9 +28,10 @@
 
 ### <h1>Technical Skills</h1>
 
-- Languages: Python, C, C++, Java, R, SQL 
-- Tools and Frameworks: Flask, Django, SQLalchemy, MySQL, Postman, Git, Figma, Invision, Pencil
-- Platforms: Linux, Windows
+- Languages:             Python, Java C++, C, Ruby, R, SQL 
+- Tools and Frameworks:  Flask, Spring Boot, Ruby on Rails, SQLAlchemy, MySQL,
+- Tools:                 Postman, Git, Figma, Invision, Pencil
+- Platforms:             Linux, Windows
 
 <h1></h1>
 
