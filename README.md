@@ -28,7 +28,7 @@
 
 ### <h1>Technical Skills</h1>
 
-- Languages:             Python, Java C++, C, Ruby, R, SQL 
+- Languages:             Python, Java, C++, C, Ruby, Go, SQL 
 - Tools and Frameworks:  Flask, Spring Boot, Ruby on Rails, SQLAlchemy, MySQL,
 - Tools:                 Postman, Git, Figma, Invision, Pencil
 - Platforms:             Linux, Windows
