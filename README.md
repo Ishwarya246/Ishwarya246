@@ -24,6 +24,7 @@
 
 - 🌱 Software Engineer
 - 📫 How to reach me: sjishwarya2002@gmail.com
+- Professional git: https://github.com/Ishwarya2462
 <hr>
 
 ### <h1>Technical Skills</h1>
